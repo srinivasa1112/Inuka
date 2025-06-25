@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srinivas1112.github.io/sitemap.xml
