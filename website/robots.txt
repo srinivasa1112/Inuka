@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srinivas1112.github.io/sitemap.xml
+Sitemap: https://srinivas1112.github.io/Inuka/website/sitemap.xml
